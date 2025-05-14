@@ -1,0 +1,68 @@
+{
+    "title": "Sad Songs",
+    "description": "Heart Touching Hits for you",
+    "songs":[
+        { "title": "128-Rihaee - Yasser Desai 128 Kbps", "description": "Jarvis", "path": "128-Rihaee - Yasser Desai 128 Kbps.mp3" },
+
+        { "title": "Zihal-e-maskin", "description": "Jarvis", "path": "Zihal-e-maskin.mp3" },
+
+        { "title": "Dobara Humein Kya Jubin Nautiyal  Sunidhi Chauhan Sad  Ae Dil Zara", "description": "Jarvis", "path": "Dobara Humein Kya Jubin Nautiyal  Sunidhi Chauhan Sad  Ae Dil Zara.mp3" },
+
+        { "title": "128-Aaoge Jab Tum - Jab We Met 128 Kbps", "description": "Jarvis", "path": "128-Aaoge Jab Tum - Jab We Met 128 Kbps.mp3" },
+
+        { "title": "128-Maana Ke Hum Yaar Nahin - Meri Pyaari Bindu 128 Kbps", "description": "Jarvis", "path": "128-Maana Ke Hum Yaar Nahin - Meri Pyaari Bindu 128 Kbps.mp3" },
+
+        { "title": "Aaya-Woh-Phir-Nazar-Aise(PagalWorlld.Com)", "description": "Jarvis", "path": "Aaya-Woh-Phir-Nazar-Aise(PagalWorlld.Com).mp3" },
+
+        { "title": "Main Chaahun Tujhe Kisi Aur Ko Tu Chaahe Yaara-(PagalSongs.Com.IN)", "description": "Jarvis", "path": "Main Chaahun Tujhe Kisi Aur Ko Tu Chaahe Yaara-(PagalSongs.Com.IN).mp3" },
+
+        { "title": "Ye-Dil-Tum-Bin", "description": "Jarvis", "path": "Ye-Dil-Tum-Bin.mp3" },
+
+        { "title": "Tere_Bina", "description": "Jarvis", "path": "Tere_Bina.mp3" },
+
+        { "title": "Mann Bharrya", "description": "Jarvis", "path": "Mann Bharrya.mp3" },
+
+        { "title": "128-Haal-E-Dil (Female) - Sanam Teri Kasam 128 Kbps", "description": "Jarvis", "path": "128-Haal-E-Dil (Female) - Sanam Teri Kasam 128 Kbps.mp3" },
+
+        { "title": "02. Khali Salam Dua", "description": "Jarvis", "path": "02. Khali Salam Dua.mp3" },
+
+        { "title": "Main Jis Din Bhulaa Du - Jubin Nautiyal", "description": "Jarvis", "path": "Main Jis Din Bhulaa Du - Jubin Nautiyal.mp3" },
+
+        { "title": "Humsafar - Badrinath Ki Dulhania", "description": "Jarvis", "path": "Humsafar - Badrinath Ki Dulhania.mp3" },
+
+        { "title": "04 Tera Chehra - Sanam Teri Kasam (Arijit Singh) 320Kbps", "description": "Jarvis", "path": "04 Tera Chehra - Sanam Teri Kasam (Arijit Singh) 320Kbps.mp3" },
+
+        { "title": "03 Kaun Mera (Special 26)", "description": "Jarvis", "path": "03 Kaun Mera (Special 26).mp3" },
+
+        { "title": "04 Mujh Mein Tu (Special 26)", "description": "Jarvis", "path": "04 Mujh Mein Tu (Special 26).mp3" },
+
+        { "title": "03 Tum Saath Ho - Tamasha (Arijit Singh) 320Kbps", "description": "Jarvis", "path": "03 Tum Saath Ho - Tamasha (Arijit Singh) 320Kbps.mp3" },
+
+        { "title": "09 Dil Ke Paas (Indian Version) Arijit Singh 190Kbps", "description": "Jarvis", "path": "09 Dil Ke Paas (Indian Version) Arijit Singh 190Kbps.mp3" },
+        
+        { "title": "Aankhon Mein Tera Hi Chehra(PagalWorld)4", "description": "Jarvis", "path": "Aankhon Mein Tera Hi Chehra(PagalWorld).mp3" },
+
+        { "title": "02 Sunn Raha Hai - Aashiqui 2 (Ankit Tiwari) 320Kbps", "description": "Jarvis", "path": "02 Sunn Raha Hai - Aashiqui 2 (Ankit Tiwari) 320Kbps.mp3" },
+
+        { "title": "Chale Aana - De De Pyaar De", "description": "Jarvis", "path": "Chale Aana - De De Pyaar De.mp3" },
+
+        { "title": "Chitta(PagalWorld.com.se)", "description": "Jarvis", "path": "Chitta(PagalWorld.com.se).mp3" },
+
+        { "title": "Hath Kangan Leke Aana(PaglaSongs)", "description": "Jarvis", "path": "Hath Kangan Leke Aana(PaglaSongs).mp3" }, 
+
+        { "title": "Jab Koi Baat - Atif Aslam n Shirley Setia 320Kbps", "description": "Jarvis", "path": "Jab Koi Baat - Atif Aslam n Shirley Setia 320Kbps.mp3" },
+       
+        { "title": "Main Rang Sharbaton (PPNH) Atif Aslam - 320Kbps", "description": "Jarvis", "path": "Main Rang Sharbaton (PPNH) Atif Aslam - 320Kbps.mp3" },
+
+        { "title": "Naino Ki To Baat Naina Jane Hai", "description": "Jarvis", "path": "Naino Ki To Baat Naina Jane Hai.mp3" },
+
+        { "title": "Narazgi-Aarsh-Benipal", "description": "Jarvis", "path": "Narazgi-Aarsh-Benipal.mp3" },
+
+        { "title": "Channa Mereya (From Ae Dil Hai Mushkil)_192(Ghantalele.com)", "description": "Jarvis", "path": "Channa Mereya (From Ae Dil Hai Mushkil)_192(Ghantalele.com).mp3" },
+
+        { "title": "Chaaha Hai Tujhko(KoshalWorld.Com)", "description": "Jarvis", "path": "Chaaha Hai Tujhko(KoshalWorld.Com).mp3" },
+
+        { "title": "128-Khamoshiyan - Khamoshiyan 128 Kbps", "description": "Jarvis", "path": "128-Khamoshiyan - Khamoshiyan 128 Kbps.mp3" }
+
+    ]
+}
